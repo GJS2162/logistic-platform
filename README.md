@@ -22,3 +22,6 @@ Then open [http://localhost:3000](http://localhost:3000) with your browser.
 * [styled-components](https://styled-components.com/)
 * [Tailwind](https://tailwindcss.com/)
 * [Mapbox](https://www.mapbox.com/)
+
+
+![ER Diagram](/ss/ER.png)
